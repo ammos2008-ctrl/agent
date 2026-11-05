@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/34432327/README.md)
-# agent# agent
+agent
 
 Мой первый репозиторий на GitHub. 🌱
 
@@ -31,4 +31,5 @@
 
 ---
 
-Учебный проект. Сделано вместе с агентом Arena.ai.
+
+
